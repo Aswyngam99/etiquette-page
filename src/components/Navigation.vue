@@ -13,7 +13,7 @@
               <v-row justify="center" align="center">
                 <v-col class="mt-5">
                 <v-img class="mx-15" src='../../public/logo.png' max-height="200" max-width="200"></v-img>
-                <h4 class="mx-10 list">Mode opératoire analyse étiquettes</h4>
+                <h3 class="mx-8 list">Analyse étiquettes</h3>
               </v-col>
             </v-row>
            <v-list>
